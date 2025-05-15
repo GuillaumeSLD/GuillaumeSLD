@@ -30,7 +30,7 @@ Intéressé(e) par une collaboration ? N'hésitez pas à me contacter 😀
 
 ### 🔧 Outils et technologies maîtrisés :
 - Frameworks & librairies : Express.js, React
-- CMS : WordPress, Strapi
+- CMS : WordPress
 - Bases de données : PostgreSQL, MongoDB
 - Git, GitHub, Docker
 
