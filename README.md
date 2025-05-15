@@ -4,17 +4,14 @@ Après plusieurs années d'expérience dans l'univers des **médias sociaux**, j
 
 Désireux de donner un nouvel élan à ma carrière et de me spécialiser davantage dans le développement, j'ai décidé d'entamer une **reconversion professionnelle**.
 
----
-
-## 🎓 Formation actuelle
-
-Je suis actuellement en **formation de Concepteur Développeur d'Applications** au sein de l'école **O'Clock** qui me prépare à passer un **titre professionnel de niveau 6 (bac +4)**.
+🎓 J'ai suivi une formation de **Concepteur Développeur d'Applications** au sein de l'école **O'Clock** et je me prépare à passer prochainement un titre professionnel de niveau 6 (bac +4).
 
 ---
 
-## 🚀 Recherche de stage
+## 🏢 Expérience actuelle
+Je suis actuellement en stage au sein groupe **Schüco France**, où je **conçois et développe une application web** dédiée à l’optimisation du workflow des équipes impliquées dans le cycle de création et de lancement de nouveaux produits.
 
-Dans cette dynamique de reconversion, je suis à la recherche d'un **stage** à partir de **mai 2025** pour mettre en pratique mes acquis et contribuer activement à des projets de **développement web**.
+Ce projet me permet de mettre en pratique mes compétences tout en contribuant à l'amélioration des processus internes de l'entreprise.
 
 Intéressé(e) par une collaboration ? N'hésitez pas à me contacter 😀 
 
@@ -23,19 +20,18 @@ Intéressé(e) par une collaboration ? N'hésitez pas à me contacter 😀
 ---
 
 🌟 **Compétences clés :**
-- Développement Front-end (HTML, CSS, JavaScript)
-- Développement Back-end (Node.js)
-- Gestion de contenu et stratégie digitale
+- Conception fonctionnelle et technique d'applications web
+- Développement frontend
+- Développement backend
 - Analyse et résolution de problèmes techniques
+- Gestion de contenu et stratégie digitale
 
 ---
 
 ### 🔧 Outils et technologies maîtrisés :
-- Git, GitHub, Docker
-- Frameworks & librairies : Express, NestJS, React
+- Frameworks & librairies : Express.js, React
 - CMS : WordPress, Strapi
 - Bases de données : PostgreSQL, MongoDB
+- Git, GitHub, Docker
 
----
-
-**Définitivement prêt à contribuer à des projets concrets et à découvrir de nouvelles technos pour évoluer davantage dans le développement web.** 🚀🚀🚀
+**Toujours prêt à découvrir de nouvelles technos 🚀🚀🚀**
