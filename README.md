@@ -1,6 +1,6 @@
 # 👨‍💻 À propos de moi
 
-Après plusieurs années d'expérience dans le digital, j'ai développé des compétences en communication, marketing et gestion de contenu. Polyvalent, j'ai également eu l'occasion de m'immerger dans le développement web en concevant des solutions techniques pour des sites web et des blogs d'entreprise qui m'ont permis d'acquérir une solide base technique 💻
+Après plusieurs années d'expérience dans le digital, j'ai développé des compétences en communication, webmarketing et gestion de contenu. Polyvalent, j'ai également eu l'occasion de m'immerger dans le développement web en concevant des solutions techniques pour des sites web et des blogs d'entreprise qui m'ont permis d'acquérir une solide base technique 💻
 
 Désireux de donner un nouvel élan à ma carrière et de me spécialiser davantage dans le développement, j'ai intégré la formation de Concepteur Développeur d'Applications au sein de l'école **O'Clock**.
 
