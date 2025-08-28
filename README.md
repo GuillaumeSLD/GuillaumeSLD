@@ -1,19 +1,17 @@
 # 👨‍💻 À propos de moi
 
-Après plusieurs années d'expérience dans l'univers des **médias sociaux**, j'ai développé des compétences solides en **gestion de contenu**, **stratégie digitale** et **communication**. Au fil de mes projets, j'ai également eu l'occasion de m'immerger dans le **développement web**. J'ai ainsi conçu des solutions techniques pour des sites web et des blogs d'entreprise, ce qui m'a permis d'acquérir une solide base technique 💻.
+Après plusieurs années d'expérience dans le digital, j'ai développé des compétences en communication, marketing et gestion de contenu. Polyvalent, j'ai également eu l'occasion de m'immerger dans le développement web en concevant des solutions techniques pour des sites web et des blogs d'entreprise qui m'ont permis d'acquérir une solide base technique 💻
 
-Désireux de donner un nouvel élan à ma carrière et de me spécialiser davantage dans le développement, j'ai décidé d'entamer une **reconversion professionnelle**.
-
-🎓 J'ai suivi une formation de **Concepteur Développeur d'Applications** au sein de l'école **O'Clock** et je me prépare à passer prochainement un titre professionnel de niveau 6 (bac +4).
+Désireux de donner un nouvel élan à ma carrière et de me spécialiser davantage dans le développement, j'ai intégré la formation de Concepteur Développeur d'Applications au sein de l'école **O'Clock**.
 
 ---
 
 ## 🏢 Expérience actuelle
-Je suis actuellement en stage au sein groupe **Schüco France**, où je **conçois et développe une application web** dédiée à l’optimisation du workflow des équipes impliquées dans le cycle de création et de lancement de nouveaux produits.
-
-Ce projet me permet de mettre en pratique mes compétences tout en contribuant à l'amélioration des processus internes de l'entreprise.
-
-Intéressé(e) par une collaboration ? N'hésitez pas à me contacter 😀 
+Je suis actuellement en poste au sein groupe Schüco France où je conçois et développe des outils dédiés à l'amélioration des processus métiers.
+J'ai notamment développé une application dédiée à la gestion du cycle de vie produit qui m'a challengée sur les aspects technique et métier : 
+- Modélisation de processus métiers complexes
+- Migration de données non structurées vers un système relationnel
+- Intégration profonde avec le SI en place (SAP, Microsoft Azure Active Directory, Microsoft Graph API)
 
 🔗 **Contact** : [LinkedIn](https://www.linkedin.com/in/guillaume-salsedo/) | [Portfolio](https://guillaume.salsedo.net/).
 
