@@ -1,35 +1,46 @@
 # 👨‍💻 À propos de moi
 
-Après plusieurs années d'expérience dans le digital, j'ai développé des compétences en communication, webmarketing et gestion de contenu. Polyvalent, j'ai également eu l'occasion de m'immerger dans le développement web en concevant des solutions techniques pour des sites web et des blogs d'entreprise qui m'ont permis d'acquérir une solide base technique 💻
-
-Désireux de donner un nouvel élan à ma carrière et de me spécialiser davantage dans le développement, j'ai intégré la formation de Concepteur Développeur d'Applications au sein de l'école **O'Clock**.
+Développeur d’applications métier, je conçois, développe et déploie en production des outils web destinés à automatiser les processus internes, structurer les données et faciliter la collaboration entre services.
 
 ---
 
 ## 🏢 Expérience actuelle
-Je suis actuellement en poste au sein groupe Schüco France où je conçois et développe des outils dédiés à l'amélioration des processus métiers.
-J'ai notamment développé une application dédiée à la gestion du cycle de vie produit qui m'a challengée sur les aspects technique et métier : 
-- Modélisation de processus métiers complexes
-- Migration de données non structurées vers un système relationnel
-- Intégration profonde avec le SI en place (SAP, Microsoft Azure Active Directory, Microsoft Graph API)
 
-🔗 **Contact** : [LinkedIn](https://www.linkedin.com/in/guillaume-salsedo/) | [Portfolio](https://guillaume.salsedo.net/).
+Je suis actuellement en poste au sein du groupe **Schüco France**, où je conçois et développe des applications métier pour différents services de l'entreprise.
+J’interviens sur des sujets comme la centralisation des informations, la fiabilisation des données et la fluidification des échanges entre les équipes.
 
----
+Je résout des problématiques à la fois techniques, fonctionnelles et métier :
 
-🌟 **Compétences clés :**
-- Conception fonctionnelle et technique d'applications web
-- Développement frontend
-- Développement backend
-- Analyse et résolution de problèmes techniques
-- Gestion de contenu et stratégie digitale
+* Modélisation de processus métiers complexes
+* Migration de données éparses et non structurées sur des SGBDR
+* Développement de moteurs de calculs métier et d’outils d’aide à la décision
+* Développement d’interfaces ergonomiques
+* Automatisaion de workflows dédiés à l'amélioration de la coordination interservices
+* Intégrations avec le SI : SAP, Microsoft Azure Active Directory, Microsoft Graph API
 
 ---
 
-### 🔧 Outils et technologies maîtrisés :
-- Frameworks & librairies : Express.js, React
-- CMS : WordPress
-- Bases de données : PostgreSQL, MongoDB
-- Git, GitHub, Docker
+🌟 **Compétences clés**
 
-**Toujours prêt à découvrir de nouvelles technos 🚀🚀🚀**
+* Conception fonctionnelle et technique d’applications web
+* Analyse des besoins utilisateurs et modélisation de processus métier
+* Structuration, migration et fiabilisation de données
+* Intégration d’applications au système d’information d’entreprise
+* Automatisation de processus internes
+* Développement frontend et backend
+* Mise en place d'infrastructures de déploiement
+* Analyse et résolution de problèmes techniques
+
+---
+
+### 🔧 Principaux outils et technologies maîtrisés
+
+* Langages : JavaScript, TypeScript, SQL
+* Backend : Node.js, Express.js
+* Frontend : EJS, JavaScript, React
+* Bases de données : PostgreSQL, MongoDB
+* Versionning : Git, GitHub
+* Environnement et déploiement : Docker, Coolify
+* CMS : WordPress
+
+🔗 **Contact** : [LinkedIn](https://www.linkedin.com/in/guillaume-salsedo/) | [Portfolio](https://guillaume.salsedo.net/)
