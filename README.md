@@ -1,6 +1,6 @@
 # 👨‍💻 À propos de moi
 
-Développeur d’applications métier, je conçois, développe et déploie en production des outils web destinés à automatiser les processus internes, structurer les données et faciliter la collaboration entre services.
+Développeur fullstack, je conçois, développe, déploie et maintiens en production des applications métier destinées à automatiser les processus internes, structurer les données et faciliter la collaboration entre services.
 
 ---
 
@@ -9,14 +9,13 @@ Développeur d’applications métier, je conçois, développe et déploie en pr
 Je suis actuellement en poste au sein du groupe **Schüco France**, où je conçois et développe des applications métier pour différents services de l'entreprise.
 J’interviens sur des sujets comme la centralisation des informations, la fiabilisation des données et la fluidification des échanges entre les équipes.
 
-Je résout des problématiques à la fois techniques, fonctionnelles et métier :
+Je résous des problématiques à la fois techniques, fonctionnelles et métier :
 
-* Modélisation de processus métiers complexes
+* Modélisation de processus métier complexes
 * Migration de données éparses et non structurées sur des SGBDR
-* Développement de moteurs de calculs métier et d’outils d’aide à la décision
+* Développement de moteurs de calculs métiers et d’outils d’aide à la décision
 * Développement d’interfaces ergonomiques
-* Automatisaion de workflows dédiés à l'amélioration de la coordination interservices
-* Intégrations avec le SI : SAP, Microsoft Azure Active Directory, Microsoft Graph API
+* Intégrations avec le SI d'entreprise : SAP, Microsoft Azure Active Directory, Microsoft Graph API
 
 ---
 
