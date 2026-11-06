@@ -21,12 +21,10 @@ I contribute to projects across the full development lifecycle, from understandi
 - Functional and technical design of web applications
 - Business process analysis and modeling
 - Data structuring, migration, and quality improvement
-- Development of business calculation engines and decision-support tools
 - Frontend and backend development
 - Enterprise system integration
 - User-oriented interface design
 - Deployment infrastructure and production support
-- Technical problem-solving
 
 ## Technology Stack
 
@@ -36,8 +34,6 @@ I contribute to projects across the full development lifecycle, from understandi
 - **Databases:** PostgreSQL, MongoDB
 - **Integrations:** SAP, Microsoft Azure Active Directory, Microsoft Graph API
 - **DevOps & Deployment:** Docker, Coolify
-- **Version Control:** Git, GitHub
-- **CMS:** WordPress
 
 ## Links
 
