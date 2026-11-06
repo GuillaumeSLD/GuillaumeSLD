@@ -1,45 +1,45 @@
-# 👨‍💻 À propos de moi
+# Full-Stack Developer
 
-Développeur fullstack, je conçois, développe, déploie et maintiens en production des applications métier destinées à automatiser les processus internes, structurer les données et faciliter la collaboration entre services.
+I design, build, deploy, and maintain business applications that help organizations structure their data, automate internal processes, and improve collaboration between teams.
 
----
+## Current Role
 
-## 🏢 Expérience actuelle
+I currently work as a Full-Stack Developer at **Schüco France**, where I develop tailored business tools for different departments across the company.
 
-Je suis actuellement en poste au sein du groupe **Schüco France**, où je conçois et développe des applications métier pour différents services de l'entreprise.
-J’interviens sur des sujets comme la centralisation des informations, la fiabilisation des données et la fluidification des échanges entre les équipes.
+My work focuses on:
 
-Je résous des problématiques à la fois techniques, fonctionnelles et métier :
+- Centralizing and structuring business information
+- Improving data quality and reliability
+- Streamlining collaboration between teams
+- Automating internal processes
+- Integrating applications with enterprise information systems
 
-* Modélisation de processus métier complexes
-* Migration de données éparses et non structurées sur des SGBDR
-* Développement de moteurs de calculs métiers et d’outils d’aide à la décision
-* Développement d’interfaces ergonomiques
-* Intégrations avec le SI d'entreprise : SAP, Microsoft Azure Active Directory, Microsoft Graph API
+I contribute to projects across the full development lifecycle, from understanding business requirements and modeling processes to deployment and production maintenance.
 
----
+### Key Areas of Expertise
 
-🌟 **Compétences clés**
+- Functional and technical design of web applications
+- Business process analysis and modeling
+- Data structuring, migration, and quality improvement
+- Development of business calculation engines and decision-support tools
+- Frontend and backend development
+- Enterprise system integration
+- User-oriented interface design
+- Deployment infrastructure and production support
+- Technical problem-solving
 
-* Conception fonctionnelle et technique d’applications web
-* Analyse des besoins utilisateurs et modélisation de processus métier
-* Structuration, migration et fiabilisation de données
-* Intégration d’applications au système d’information d’entreprise
-* Automatisation de processus internes
-* Développement frontend et backend
-* Mise en place d'infrastructures de déploiement
-* Analyse et résolution de problèmes techniques
+## Technology Stack
 
----
+- **Languages:** JavaScript, TypeScript, SQL
+- **Backend:** Node.js, Express.js
+- **Frontend:** JavaScript, React, EJS
+- **Databases:** PostgreSQL, MongoDB
+- **Integrations:** SAP, Microsoft Azure Active Directory, Microsoft Graph API
+- **DevOps & Deployment:** Docker, Coolify
+- **Version Control:** Git, GitHub
+- **CMS:** WordPress
 
-### 🔧 Principaux outils et technologies maîtrisés
+## Links
 
-* Langages : JavaScript, TypeScript, SQL
-* Backend : Node.js, Express.js
-* Frontend : EJS, JavaScript, React
-* Bases de données : PostgreSQL, MongoDB
-* Versionning : Git, GitHub
-* Environnement et déploiement : Docker, Coolify
-* CMS : WordPress
-
-🔗 **Contact** : [LinkedIn](https://www.linkedin.com/in/guillaume-salsedo/) | [Portfolio](https://guillaume.salsedo.net/)
+- [LinkedIn](https://www.linkedin.com/in/guillaume-salsedo/)
+- [Portfolio](https://guillaume.salsedo.net/)
