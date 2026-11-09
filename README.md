@@ -12,11 +12,11 @@ I design, build, deploy, and maintain business applications that help organizati
 
 ## Technology Stack
 
-- **Languages:** JavaScript, TypeScript, SQL
-- **Backend:** Node.js, Express.js
-- **Frontend:** JavaScript, React, EJS
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps & Deployment:** Docker, Coolify
+- **Languages:** JavaScript | TypeScript | SQL
+- **Backend:** Express.js
+- **Frontend:** EJS | React
+- **Databases:** PostgreSQL | MongoDB
+- **DevOps:** Docker | Coolify | GitHub Actions
 
 ## Links
 
